@@ -5,7 +5,7 @@ The application is the result of a three-month internship realised by Morgane Na
 in Lodz, Poland.
 This program requires Python version 3.7.
 
-Its purpose is to train a model from raw electrocardiogram signals in a speficic format : .csv files. 
+Its purpose is to train a model from raw electrocardiogram signals in a specific format : .csv files. 
 A sample is given in the folder (ECG_PTB_Database_CSV), and its folder hierarchy has to remain the same
 for the program to function.
 
