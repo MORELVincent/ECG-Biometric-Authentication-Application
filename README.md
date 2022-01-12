@@ -10,7 +10,7 @@ A sample is given in the folder (ECG_PTB_Database_CSV), and its folder hierarchy
 for the program to function.
 
 The whole database can be found on github following this link : 
-https://github.com/MORELVincent/ECG-Biometric-Authentication-Application
+https://physionet.org/content/ptbdb/1.0.0/
 
 
 The program is divided in two specific parts :
